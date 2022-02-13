@@ -9,3 +9,17 @@ div {
 body {
     background-color: rgb(240, 255, 244);
 }
+
+.small-img {
+    width: 7cm;
+}
+
+a.links {
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+    border: 1px solid white;
+    border-radius: 10%;
+    text-decoration: none;
+}
